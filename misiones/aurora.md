@@ -11,9 +11,9 @@
 6. Pide una revisión a Órbita; responde y corrige al menos un comentario.
 
 ## Plan de lanzamiento
-- Paso 1: Verificar los tanques de combustible y oxígeno.
-- Paso 2: Comprobar que no hay ningún tipo de fuga o fallo de estructura.
-- Paso 3: Calcular la trayectoria de despegue.
+- Paso 1: Calcular la trayectoria de despegue.
+- Paso 2: Verificar los tanques de combustible y oxígeno.
+- Paso 3: Comprobar que no hay ningún tipo de fuga o fallo de estructura.
 
 ## Pregunta para el otro equipo
 ¿Qué podría salir mal durante el lanzamiento?

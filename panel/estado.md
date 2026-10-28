@@ -4,7 +4,7 @@
 
 **ESTADO DE LA MISIÓN: LANZAMIENTO DE AURORA LISTO**
 
-**Mensaje a la tripulación: Todo listo para despegar. Asegúrense de abrochar sus cinturones, ¡buena suerte!** .
+**Mensaje a la tripulación:** Todo listo para despegar. Asegúrense de abrochar sus cinturones, ¡buena suerte!
 
 ## Decisiones de los equipos
 
